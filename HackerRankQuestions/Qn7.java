@@ -31,6 +31,7 @@ public class Qn7
                     break;
             }
         }
+        sc.close();
         count(list);
     }
 
